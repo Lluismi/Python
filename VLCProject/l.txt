@@ -1,0 +1,46 @@
+Gui�n de la presentaci�n
+
+indica que debes entregar en GitHub ese artefacto en la documentaci�n. 
+
+Demostraci�n del funcionamiento de la aplicaci�n, en base a los objetivos definidos en el anteproyecto.
+
+
+NO CASOS TEST, NO GLORY.
+
+
+Descripci�n t�cnica:
+
+
+	Arquitectura de la aplicaci�n y tecnolog�as utilizadas [doc]
+
+	Diagrama de componentes. [doc]	
+
+
+	OPCIONAL: Diagrama E/R de la base de datos (o el que proceda). [doc]
+
+
+	Fichero XML y Schema.(hecho)
+
+
+Metodolog�a de desarrollo utilizada (sin invents). 
+
+
+Clockify del desarrollo de la app. 
+
+
+	Un diagrama (circular, barras, etc.) donde se presente el tiempo invertido por componente y/o asignaturas. [doc]
+
+
+	An�lisis y justificaci�n del tiempo invertido.
+
+
+Conclusiones.
+
+
+	Posibles mejoras.
+
+
+	Principales dificultades encontradas.
+
+
+Tiempo para preguntas de los compa�eros/as.

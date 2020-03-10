@@ -1,0 +1,548 @@
+<Catalog>  
+   	<cancions>
+		<track>
+			<id>01</id>
+			<name>Natural</name>
+			<seconds>189</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\IDnatural.mp3</path>
+			<bytes>6.194.440</bytes>
+		</track>
+		<track>
+			<id>02</id>
+			<name>Zero</name>
+			<seconds>210</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\IDzero.mp3</path>
+			<bytes>7.331.840</bytes>
+		</track>
+		<track>
+			<id>03</id>
+			<name>Machine</name>
+			<seconds>181</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\IDmachine.mp3</path>
+			<bytes>6.402.374</bytes>
+		</track>
+		<track>
+			<id>04</id>
+			<name>Bad Liar</name>
+			<seconds>260</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\IDbadliar.mp3</path>
+			<bytes>9.156.247</bytes>
+		</track>
+		<track>
+			<id>05</id>
+			<name>Love</name>
+			<seconds>166</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\IDlove.mp3</path>
+			<bytes>5.421.391</bytes>
+		</track>
+		<track>
+			<id>06</id>
+			<name>Que Tire Pa Lante</name>
+			<seconds>211</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\DaddyYankee.mp3</path>
+			<bytes>7.478.385</bytes>
+		</track>
+		<track>
+			<id>07</id>
+			<name>Sueño</name>
+			<seconds>206</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\beret.mp3</path>
+			<bytes>6.180.458</bytes>
+		</track>
+		<track>
+			<id>08</id>
+			<name>Lose You To Love Me</name>
+			<seconds>226</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Selena.mp3</path>
+			<bytes>6.810.448</bytes>
+		</track>
+		<track>
+			<id>09</id>
+			<name>Desde cero</name>
+			<seconds>222</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Beret0.mp3</path>
+			<bytes>6.582.755</bytes>
+		</track>
+		<track>
+			<id>10</id>
+			<name>Alocao</name>
+			<seconds>213</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\BadGyal.mp3</path>
+			<bytes>7.296.539</bytes>
+		</track>
+		<track>
+			<id>11</id>
+			<name>The Nights</name>
+			<seconds>176</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\AviciiNights.mp3</path>
+			<bytes>4.578.044</bytes>
+		</track>
+		<track>
+			<id>12</id>
+			<name>Besos</name>
+			<seconds>146</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\cantolocobesos.mp3</path>
+			<bytes>4.541.377</bytes>
+		</track>
+		<track>
+			<id>13</id>
+			<name>lazysong</name>
+			<seconds>195</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\lazysong.mp3</path>
+			<bytes>6.325.964</bytes>
+		</track>
+		<track>
+			<id>14</id>
+			<name>soldaditomarinero</name>
+			<seconds>239</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\soldaditomarinero.mp3</path>
+			<bytes>7.829.490</bytes>
+		</track>
+		<track>
+			<id>15</id>
+			<name>sorryforpartyrocking</name>
+			<seconds>203</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\sorryforpartyrocking.mp3</path>
+			<bytes>13.276.548</bytes>
+		</track>
+		<track>
+			<id>16</id>
+			<name>sirenas</name>
+			<seconds>195</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\sirenas.mp3</path>
+			<bytes>5.703.43</bytes>
+		</track>
+		<track>
+			<id>17</id>
+			<name>tocadoyhundido</name>
+			<seconds>211</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\tocadoyhundido.mp3</path>
+			<bytes>8.821.427</bytes>
+		</track>
+		<track>
+			<id>18</id>
+			<name>jardinconenanitos</name>
+			<seconds>239</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\jardinconenanitos.mp3</path>
+			<bytes>8.620.287</bytes>
+		</track>
+		<track>
+			<id>19</id>
+			<name>cheerleader</name>
+			<seconds>181</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\cheerleader.mp3</path>
+			<bytes>6.428.652</bytes>
+		</track>
+		<track>
+			<id>20</id>
+			<name>seeyouagain</name>
+			<seconds>190</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\seeyouagain.mp3</path>
+			<bytes>7.084.900</bytes>
+		</track>
+		<track>
+			<id>21</id>
+			<name>LetHerGo</name>
+			<seconds>253</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\LetHerGo.mp3</path>
+			<bytes>10.168.365</bytes>
+		</track>
+		<track>
+			<id>22</id>
+			<name>Sugar</name>
+			<seconds>236</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Sugar.mp3</path>
+			<bytes>12.055.725</bytes>
+		</track>
+		<track>
+			<id>23</id>
+			<name>Heroes</name>
+			<seconds>191</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Heroes.mp3</path>
+			<bytes>7.635.885</bytes>
+		</track>
+		<track>
+			<id>24</id>
+			<name>HotNCold</name>
+			<seconds>220</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\HotNCold.mp3</path>
+			<bytes>11.348.205</bytes>
+		</track>
+		<track>
+			<id>25</id>
+			<name>AdventureOfLifetime</name>
+			<seconds>190</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\AdventureOfLifetime.mp3</path>
+			<bytes>12.625.005</bytes>
+		</track>
+		<track>
+			<id>26</id>
+			<name>Entretenermeyentretenerte</name>
+			<seconds>47</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Entretenermeyentretenerte.mp3</path>
+			<bytes>1.129.087</bytes>
+		</track>
+		<track>
+			<id>27</id>
+			<name>Reproches</name>
+			<seconds>273</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Reproches.mp3</path>
+			<bytes>6.567.320</bytes>
+		</track>
+		<track>
+			<id>28</id>
+			<name>DEGRANAAMARACAY</name>
+			<seconds>70</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\DEGRANAAMARACAY.mp3</path>
+			<bytes>1.697.839</bytes>
+		</track>
+		<track>
+			<id>29</id>
+			<name>Amigosdesconocidos</name>
+			<seconds>176</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\.mp3</path>
+			<bytes>4.230.719</bytes>
+		</track>
+		<track>
+			<id>30</id>
+			<name>Corazóntripartito</name>
+			<seconds>215</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Corazóntripartito.mp3</path>
+			<bytes>5.169.874</bytes>
+		</track>
+		<track>
+			<id>31</id>
+			<name>Elputoamodecasa</name>
+			<seconds>205</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Elputoamodecasa.mp3</path>
+			<bytes>4.933.518</bytes>
+		</track>
+		<track>
+			<id>32</id>
+			<name>Mango</name>
+			<seconds>90</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Mango.mp3</path>
+			<bytes>2.647.699</bytes>
+		</track>
+		<track>
+			<id>33</id>
+			<name>Mucho</name>
+			<seconds>193</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Mucho.mp3</path>
+			<bytes>3.200.032</bytes>
+		</track>
+		<track>
+			<id>34</id>
+			<name>Metamorfosis</name>
+			<seconds>95</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Metamorfosis.mp3</path>
+			<bytes>2.291.235</bytes>
+		</track>
+		<track>
+			<id>35</id>
+			<name>Poco</name>
+			<seconds>122</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Poco.mp3</path>
+			<bytes>2.931.075 </bytes>
+		</track>
+		<track>
+			<id>36</id>
+			<name>Cálmate</name>
+			<seconds>241</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Cálmate.mp3</path>
+			<bytes>5.796.813</bytes>
+		</track>
+		<track>
+			<id>37</id>
+			<name>Modoturbio</name>
+			<seconds>246</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Modoturbio.mp3</path>
+			<bytes>5.920.946</bytes>
+		</track>
+		<track>
+			<id>38</id>
+			<name>Quedicelajuventud</name>
+			<seconds>229</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Quedicelajuventud.mp3</path>
+			<bytes>5.501.524</bytes>
+		</track>
+		<track>
+			<id>39</id>
+			<name>fresasconnata</name>
+			<seconds>213</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\fresasconnata.mp3</path>
+			<bytes>5.122.226</bytes>
+		</track>
+		<track>
+			<id>40</id>
+			<name>Aguapasá</name>
+			<seconds>179</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Aguapasá.mp3</path>
+			<bytes>4.298.429</bytes>
+		</track>
+		<track>
+			<id>41</id>
+			<name>Lucifer</name>
+			<seconds>222</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Lucifer.mp3</path>
+			<bytes>5.330.997</bytes>
+		</track>
+		<track>
+			<id>42</id>
+			<name>Bancals</name>
+			<seconds>173</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Bancals.mp3</path>
+			<bytes>5.877.614</bytes>
+		</track>
+		<track>
+			<id>43</id>
+			<name>Canciondelaire</name>
+			<seconds>200</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Canciondelaire.mp3</path>
+			<bytes>6.975.534</bytes>
+		</track>
+		<track>
+			<id>44</id>
+			<name>Inthenight</name>
+			<seconds>210</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Inthenight.mp3</path>
+			<bytes>7.078.097</bytes>
+		</track>
+		<track>
+			<id>45</id>
+			<name>Inevitable</name>
+			<seconds>190</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Inevitable.mp3</path>
+			<bytes>6.335.728</bytes>
+		</track>
+		<track>
+			<id>46</id>
+			<name>Méslikes</name>
+			<seconds>255</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Méslikes.mp3</path>
+			<bytes>8.927.401</bytes>
+		</track>
+		<track>
+			<id>47</id>
+			<name>Seremocells</name>
+			<seconds>237</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Seremocells.mp3</path>
+			<bytes>8.284.208</bytes>
+		</track>
+		<track>
+			<id>48</id>
+			<name>Staguay</name>
+			<seconds>228</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Staguay.mp3</path>
+			<bytes>7.821.049</bytes>
+		</track>
+		<track>
+			<id>49</id>
+			<name>Tornoaserjo</name>
+			<seconds>237</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Tornoaserjo.mp3</path>
+			<bytes>7.802.285</bytes>
+		</track>
+		<track>
+			<id>50</id>
+			<name>Withoutme</name>
+			<seconds>291</seconds>
+			<path>C:\Users\Usuario\Desktop\proyecto\canciones\Withoutme.mp3</path>
+			<bytes>8.015.454</bytes>
+		</track>
+	</cancions>
+	<composers>
+		<composer id="01">Justin Drew Tranter</composer>
+		<composer id="02">Mattias Larsson</composer> 
+		<composer id="03">Dan Reynolds</composer>
+		<composer id="04">Ben McKee</composer>
+		<composer id="05">Daniel Platzman</composer> 
+		<composer id="06">Daniel Wayne Sermon</composer>
+		<composer id="07">Robin Fredriksson</composer>
+		<composer id="08">John Hill</composer>
+		<composer id="09">Alex da Kid</composer>
+		<composer id="10">Aja Volkman</composer>
+		<composer id="11">Jorgen Odegard</composer>
+		<composer id="12">John Feldman</composer>
+		<composer id="13">Jordan Suecof</composer>
+		<composer id="14">Gabriel Benjamin</composer>
+		<composer id="15">Nicholas Furlong</composer>
+		<composer id="16">Tim Bergling</composer>
+		<composer id="17">Bad Gyal</composer>
+		<composer id="18">Carlos José Montado Cruz</composer>
+		<composer id="19">Omar Ismael Montes</composer>
+		<composer id="20">Avicii</composer>
+		<composer id="21">Manuel Sánchez Rodríguez Baghuira</composer>
+		<composer id="22">Andy Clay</composer>
+		<composer id="23">Ramón Melendi Espina</composer>
+		<composer id="24">Francisco Javier Álvarez Beret</composer>
+		<composer id="25">Pablo Alborán</composer>
+		<composer id="26">Selena Gomez</composer>
+		<composer id="27">Julia Michaels</composer>
+		<composer id="28">Justin Tranter</composer>
+		<composer id="29">Robin Fredriksson</composer>
+		<composer id="30">Mattias Larsson</composer>
+		<composer id="31">Finneas O'Connell</composer>
+		<composer id="32">Daddy Yankee</composer>
+		<composer id="33">Dani Martín</composer>
+		<composer id="34">David Otero</composer>
+		<composer id="35">Chema Ruiz</composer>
+		<composer id="36">Ivan Ganchegui</composer>
+		<composer id="37">Jandro Velázquez</composer>
+		<composer id="38">Peter Hernandez</composer>
+		<composer id="39">Philip Lawrence</composer>
+		<composer id="40">Ari Levine</composer>
+		<composer id="41">K'naan</composer>
+		<composer id="42">Adolfo Cabrales</composer>
+		<composer id="43">Stefan Kendal Gordy</composer>
+		<composer id="44">Skyler Husten Gordy</composer>
+		<composer id="45">Erin Beck</composer>
+		<composer id="46">Guillermo Bárcenas</composer>
+		<composer id="47">José de Castro</composer>
+		<composer id="48">Julio Reyes</composer>
+		<composer id="49">Carlito Records</composer>
+		<composer id="50">Omar Samuel Pasley</composer>
+		<composer id="51">Mark Bradford</composer>
+		<composer id="52">Ryan Dillon</composer>
+		<composer id="53">Clifton Dillon</composer>
+		<composer id="54">Wiz Khalifa</composer>
+		<composer id="55">Charlie Puth</composer>
+		<composer id="56">DJ Frank E</composer>
+		<composer id="57">Adam Levine</composer>
+		<composer id="58">Joshua Coleman</composer>
+		<composer id="59">Jacob Kasher Hindlin</composer>
+		<composer id="60">Henry Walter</composer>
+		<composer id="61">Mike Posner</composer>
+		<composer id="62">Lukasz Gottwald</composer>
+		<composer id="63">Mike Rosenberg</composer>
+		<composer id="64">Chris Vallejo</composer>
+		<composer id="65">Anton Malmberg Hård af Segerstad</composer>
+		<composer id="66">Joy Deb</composer>
+		<composer id="67">Linnea Deb</composer>
+		<composer id="68">Katy Perry</composer>
+		<composer id="69">Dr. Luke</composer>
+		<composer id="70">Max Martin</composer>
+		<composer id="71">Chris Martin</composer>
+		<composer id="72">Will Champion</composer>
+		<composer id="73">Jonny Buckland</composer>
+		<composer id="74">Guy Berryman</composer>
+		<composer id="75">BEJO</composer>
+		<composer id="76">Ayax</composer>
+		<composer id="77">Prok</composer>
+		<composer id="78">SFDK</composer>
+		<composer id="79">LOCOPLAYA</composer>
+		<composer id="80">Oques grasses</composer>
+		<composer id="81">KAZE</composer>
+		<composer id="82">Eminem</composer>
+		<composer id="83">ZOO</composer>
+		<composer id="84">lildami</composer>
+	</composers>
+
+	<types>
+		<type id="01">MP3</type>
+	</types>
+
+	<genres>
+		<genre id="01">Pop rock</genre>
+		<genre id="02">Rock electronico</genre>
+		<genre id="03">Rock alternativo</genre>
+		<genre id="04">Indie rock</genre>
+		<genre id="05">Electropop</genre>
+		<genre id="06">Música alternativa</genre>
+		<genre id="07">House</genre>
+		<genre id="08">Dance</genre>
+		<genre id="09">EDM</genre>
+		<genre id="10">Folktrónica</genre>
+		<genre id="11">Música electrónica</genre>
+		<genre id="12">Pop</genre>
+		<genre id="13">Reggaeton</genre>
+		<genre id="14">Rock and roll</genre>
+		<genre id="15">Rock</genre>
+		<genre id="16">Electro house</genre>
+		<genre id="17">hip house</genre>
+		<genre id="18">acid house</genre>
+		<genre id="19">Reggae fusion</genre>
+		<genre id="20">deep house</genre>
+		<genre id="21">jazz</genre>
+		<genre id="22">Hip-Hop</genre>
+		<genre id="23">Pop Rap</genre>
+		<genre id="24">Folk rock</genre>
+		<genre id="25">indie pop</genre>
+		<genre id="26">acústica</genre>
+		<genre id="27">disco</genre>
+		<genre id="28">funk</genre>
+		<genre id="29">soul</genre>
+		<genre id="30">dance pop</genre>
+		<genre id="31">synthpop</genre>
+		<genre id="32">Rap</genre>
+	</genres>
+	<artists>  
+      	<artist id="01">Imagine Dragons</artist>
+      	<artist id="02">Daddy Yankee</artist>
+      	<artist id="03">Beret</artist>
+      	<artist id="04">Bad Gyal</artist>
+      	<artist id="05">Omar Montes</artist>
+      	<artist id="06">Avicii</artist>
+      	<artist id="07">Selena Gomez</artist>
+      	<artist id="08">Melendi</artist>
+      	<artist id="09">Pablo Alborán</artist>
+		<artist id="10">El Canto del Loco</artist>
+		<artist id="11">Bruno Mars</artist>
+		<artist id="12">Fito y los Fitipaldis</artist>
+		<artist id="13">LMFAO</artist>
+		<artist id="14">Taburete</artist>
+		<artist id="15">Wiz Khalifa</artist>
+		<artist id="16">Charlie Puth</artist>
+		<artist id="17">DJ Frank E</artist>
+		<artist id="18">Maroon 5</artist>
+		<artist id="19">Mike Rosenberg</artist>
+		<artist id="20">Måns Zelmerlöw</artist>
+		<artist id="21">Katy Perry</artist>
+		<artist id="22">Coldplay</artist>
+		<artist id="23">ZOO</artist>
+		<artist id="24">Lildami</artist>
+		<artist id="25">Oques grasses</artist>
+		<artist id="26">BEJO</artist>
+		<artist id="27">AYAX Y PROK</artist>
+		<artist id="28">KAZE</artist>
+		<artist id="29">LOCOPLAYA</artist>
+		<artist id="30">SFDK</artist>
+		<artist id="31">Eminem</artist>
+  	</artists>
+
+   	<albums>
+   		<album id="01">Origins</album>
+   		<album id="02">FIFA 15 Soundtrack</album>
+   		<album id="03">Alocao</album>
+   		<album id="04">Prisma</album>
+   		<album id="05">Lose You to Love Me</album>
+   		<album id="06">Que Tire Pa Lante</album>
+		<album id="07">Zapatillas</album>
+		<album id="08">Doo-Wops and Hooligans</album>
+		<album id="09">Lo más lejos a tu lado</album>
+		<album id="10">Sorry for Party Rocking</album>
+		<album id="11">Sirenas</album>
+		<album id="12">Un alumno más</album>
+		<album id="13">Lágrimas desordenadas</album>
+		<album id="14">Furious 7 Soundtrack</album>
+		<album id="15">V</album>
+		<album id="16">Me 4 U</album>
+		<album id="17">All the Little Lights</album>
+		<album id="18">Perfectly Damaged</album>
+		<album id="19">One of the Boys</album>
+		<album id="20">A Head Full of Dreams</album>
+		<album id="21">FundaMental</album>
+		<album id="22">Reproches</album>
+		<album id="23">De Graná a Maracay</album>
+		<album id="24">Hipi Hapa Vacilanduki</album>
+		<album id="25">Corazón tripartito</album>
+		<album id="26">Metamorfosis</album>
+		<album id="27">Cálmate</album>
+		<album id="28">Modo Turbio</album>
+		<album id="29">Qué dice la juventud?</album>
+		<album id="30">Fresas con nata</album>
+		<album id="31">Redención</album>
+		<album id="32">Fans del sol</album>
+		<album id="33">Without me</album>
+   	</albums>
+</Catalog>
