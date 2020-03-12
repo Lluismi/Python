@@ -103,7 +103,7 @@
 
 4. Arranca la app para que corra en el localhost:
 
-    `$ flask run --host 0.0.0.0`
+    `$ flask run`
 
     Comprueba en tu navegador o con `curl` que corre en:
     `http://127.0.0.1:5000/`
